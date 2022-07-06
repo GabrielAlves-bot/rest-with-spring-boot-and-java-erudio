@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Gabriel\Desktop\Curso Udemy Spring Boot\rest-with-spring-boot-and-java-erudio\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2868533451.index
