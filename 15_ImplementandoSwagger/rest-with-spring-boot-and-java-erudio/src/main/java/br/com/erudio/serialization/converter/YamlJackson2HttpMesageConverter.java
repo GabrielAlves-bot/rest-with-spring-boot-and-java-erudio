@@ -11,7 +11,6 @@ public class YamlJackson2HttpMesageConverter extends AbstractJackson2HttpMessage
 	public YamlJackson2HttpMesageConverter() {
 		super(new YAMLMapper().setSerializationInclusion(JsonInclude.Include.NON_NULL),
 				MediaType.parseMediaType("application/x-yaml"));
-		// TODO Auto-generated constructor stub
 	}
 
 }
